@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace VetorOrdenado
+namespace matrizOrdenada
 {
     class Program
     {
